@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <RepoRoot>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\'))</RepoRoot>
     <PathMap>$(RepoRoot)=.</PathMap>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <RootNamespace>KK.Lib.MVVMHelper</RootNamespace>
   </PropertyGroup>
 
