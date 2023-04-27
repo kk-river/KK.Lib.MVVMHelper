@@ -1,8 +1,8 @@
-using KK.Lib.MVVMHelper.DependencyInjection;
-using Microsoft.UI.Xaml;
-using KK.Lib.MVVMHelper.Regions;
-using KK.Lib.MVVMHelper.Dialogs;
 using System.Diagnostics.CodeAnalysis;
+using KK.Lib.MVVMHelper.DependencyInjection;
+using KK.Lib.MVVMHelper.Dialogs;
+using KK.Lib.MVVMHelper.Regions;
+using Microsoft.UI.Xaml;
 
 namespace KK.Lib.MVVMHelper;
 
