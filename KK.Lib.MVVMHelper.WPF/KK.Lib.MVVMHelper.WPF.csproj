@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Regions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KK.Lib.MVVMHelper\KK.Lib.MVVMHelper.csproj" />
+  </ItemGroup>
+
+</Project>
