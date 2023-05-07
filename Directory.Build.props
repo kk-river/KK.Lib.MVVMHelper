@@ -1,6 +1,7 @@
 <Project>
 
   <PropertyGroup>
+    <Authors>kk-river</Authors>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RepoRoot>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\'))</RepoRoot>
